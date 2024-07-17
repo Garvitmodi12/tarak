@@ -1,1 +1,5 @@
+
 echo "this is mr new company "
+
+echo "compant barbad hai "
+
